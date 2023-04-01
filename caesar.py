@@ -9,3 +9,8 @@ def convert_char_to_number(key):
 
 def watch(number, mod):
     return number % mod
+
+def long_welcome():
+    print("Bienvenido al palacio de Caesar, competencia de la casa de Toño.")
+
+long_welcome()
