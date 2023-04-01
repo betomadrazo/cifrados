@@ -9,10 +9,3 @@ def convert_char_to_number(key):
 
 def watch(number, mod):
     return number % mod
-
-def welcome():
-    print("Bienvenido a la casa de Caesar.")
-
-
-
-welcome()
